@@ -21,6 +21,10 @@ h1 {
     
 }
 
+body {
+    display: flex;
+    justify-content: center;
+}
 
 .outer-wrapper {
     margin-top: 40px;
@@ -29,7 +33,7 @@ h1 {
     border: 1px solid black;
     border-radius: 4px;
     box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.9);
-    max-width: fit-content;
+    max-width: 90%;
     max-height: fit-content;
 
     
