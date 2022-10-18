@@ -1,11 +1,24 @@
 # StudentHelp
-Participate in Hacktoberfest 2022 by contributing to this beginner-friendly project. Get your PRs merged today!
 
-Student are often unaware and miss out on some really great oppurtunities that could have helped them scale their career. My aim is to gather information about every
+![Hacktoberfest2022](/Images/hacktoberfest_banner.png)
+
+Participate in Hacktoberfest 2022 by contributing to this beginner-friendly project. Get your PRs merged today!💫✅🤩
+
+Student are often unaware and miss out on some really great oppurtunities 😥 that could have helped them scale their career 💹 . My aim is to gather information about every
 little possible oppurtunities be it a Student Program like Github Campus Expert, or Microsoft Learn Student Ambassador program or some kind of internship or hackathons 
-or a communinty program like Hacktoberfest itself. This is where I'll be needing your help.
+or a communinty program like Hacktoberfest itself. This is where I'll be needing your help💫.
 
-# How to set up on local system
+# What is Hacktoberfest? 🤔
+
+It is a month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://www.digitalocean.com/blog/hacktoberfest-2022-your-mission-for-open-source) and DEV Community collaborated with [GitHub](https://github.blog/2022-10-04-expand-your-open-source-contributions-during-hacktoberfest-2022/) to get people involved in [Open Source](https://github.com/open-source). You can create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
+
+# Rules 🔥
+To qualify for the official limited edition Hacktoberfest shirt, you must register here and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repository on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the first 40,000 participants who complete the challenge will earn a T-shirt 👕 or a you can choose to plant a tree 🌳 for you.
+
+# Steps to follow 📜
+You can follow the following guiding steps to contribute to our repository. You are recommended to read CONTRIBUTING.md to understand the contribution guidelines.
+
+## How to set up on local system
 
 First of all "fork" the repository.
 
@@ -55,7 +68,7 @@ Switched to branch 'new-branch'
 
 At this point, you can now modify existing files or add new files to the project on your own branch.
 
-# What Changes you need to do ? (Objective)
+# What Changes you need to do ? (Objective)✅
 
 
 
