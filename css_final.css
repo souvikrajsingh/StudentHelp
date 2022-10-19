@@ -70,7 +70,7 @@ table th{
     position: sticky; 
     top: 0px;
     
-    background-color: #133b5c;
+    background-color: #376a95;
     color: rgb(241, 245, 179);
     
     text-align: center;
@@ -99,3 +99,13 @@ table td {
     padding-left: 20px;
     
 }
+
+#grad {
+    height: 1000px;
+    background-color: grey;/* For browsers that do not support gradients */
+    background-image: radial-gradient(#4574c4, #1d40b2, #1c3783);
+  }
+  #grad1 {
+    height: 500px;
+    background-color: white;/*to make the background white*/
+  }
