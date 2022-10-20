@@ -95,7 +95,7 @@ table td {
     text-align: left;
     
     font-size: 15px;
-    border: 1px solid rgb(177, 177, 177);
+    border: 1px solid rgb(165, 154, 154);
     padding-left: 20px;
     
 }
@@ -103,7 +103,7 @@ table td {
 #grad {
     height: 1000px;
     background-color: grey;/* For browsers that do not support gradients */
-    background-image: radial-gradient(#4574c4, #1d40b2, #1c3783);
+    background-image: radial-gradient(#517cc7, #2e4db5, #1c3783);
   }
   #grad1 {
     height: 500px;
