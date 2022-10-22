@@ -43,20 +43,16 @@ body {
     overflow-y: scroll;
     overflow-x: scroll;
     height: fit-content;
-    max-height: 66.4vh;
-    
-    margin-top: 22px;
-    
+    max-height: fit-content;
+    margin-top: 22px;    
     margin: 15px;
-    padding-bottom: 20px;
-    
+    padding-bottom: 20px;  
 }
 
 
 table {
     
-    min-width: max-content;
-    
+    min-width: max-content; 
     border-collapse: separate;
     border-spacing: 0px;    
     
@@ -71,13 +67,15 @@ table th{
     top: 0px;
     
     background-color: #133b5c;
-    color: rgb(241, 245, 179);
+    color: rgb(190, 192, 167);
     
     text-align: center;
     font-weight: normal;
     font-size: 18px;
     outline: 0.7px solid black;
     border: 1.5px solid black;
+    max-height: fit-content;
+
 
 } 
 
@@ -97,5 +95,18 @@ table td {
     font-size: 15px;
     border: 1px solid rgb(177, 177, 177);
     padding-left: 20px;
+    max-height: fit-content;
+
     
 }
+
+#grad {
+    height: 1000px;
+    background-color: grey;/* For browsers that do not support gradients */
+    background-image: radial-gradient(#517cc7, #2e4db5, #1c3783);
+  }
+  #grad1 {
+    max-height: 630px;
+
+    background-color: white;/*to make the background white*/
+  }
