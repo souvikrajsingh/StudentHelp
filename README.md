@@ -1,5 +1,5 @@
 # StudentHelp
-
+## <div align = "center" > ⭐ STAR THIS REPOSITORY THIS WILL PAY OF MY WORK </div>
 ![Hacktoberfest2022](/Images/hacktoberfest_banner.png)
 
 Participate in Hacktoberfest 2022 by contributing to this beginner-friendly project. Get your PRs merged today!💫✅🤩
