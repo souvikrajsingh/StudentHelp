@@ -1,3 +1,5 @@
+### Before you start contributing check out how our website looks for now [Student Help Website](https://souvikrajsingh.github.io/StudentHelp/)
+
 # Contributing Guidelines
 
 This documentation contains a set of guidelines to help you during the contribution process. 
