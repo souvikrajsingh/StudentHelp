@@ -62,11 +62,11 @@ table {
 table th{
     position: sticky; 
     top: 0px;
-    background-color: #133b5c;
-    color: rgb(190, 192, 167);
+    background-color: #a54a99;
+    color: rgb(90, 14, 59);
     text-align: center;
-    font-weight: normal;
-    font-size: 18px;
+    font-weight: bold;
+    font-size: 19px;
     outline: 0.7px solid black;
     border: 1.5px solid black;
     max-height: fit-content;
@@ -97,7 +97,7 @@ table td {
 #grad {
     height: 1000px;
     background-color: grey;/* For browsers that do not support gradients */
-    background-image: radial-gradient(#517cc7, #2e4db5, #1c3783);
+    background-image: radial-gradient(#8a6175, #753f5a, #7c8836);
   }
 
 #grad1 {
